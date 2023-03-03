@@ -1,0 +1,2 @@
+web: gunicorn KPMB1.wsgi --log-file -
+
